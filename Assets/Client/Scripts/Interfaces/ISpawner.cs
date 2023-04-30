@@ -1,0 +1,4 @@
+interface ISpawner
+{
+    void Spawn();
+}

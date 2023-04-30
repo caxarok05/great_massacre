@@ -1,0 +1,4 @@
+interface IEnemyResist
+{
+    void ChangeResistState();
+}

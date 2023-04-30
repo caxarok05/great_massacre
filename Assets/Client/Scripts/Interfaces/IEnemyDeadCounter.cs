@@ -1,0 +1,4 @@
+interface IEnemyDeadCounter
+{
+    void CountDead();
+}
